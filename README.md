@@ -1,5 +1,5 @@
 # YAN-WU_22082478
-Project View: E-Commerce Customer Behaviour Analysis
+Project Overview: E-Commerce Customer Behaviour Analysis
 
 Objective:
 The primary goal of this project is to conduct a comprehensive analysis of customer behavior on an e-commerce platform, utilizing a dataset that captures various customer attributes and purchase history. The insights derived from this analysis will aid in making data-driven decisions to enhance the overall customer experience and inform strategic business initiatives.
